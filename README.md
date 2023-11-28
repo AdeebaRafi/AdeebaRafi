@@ -5,7 +5,7 @@
 - 🚀 I actively contribute to open-source projects and am committed to creating positive solutions.
 - 📚 I believe in continuous learning and staying updated on the latest trends and technologies in software development.
 - 🤝 Open to collaboration opportunities that align with my skills and interests.
-- 📫 How to reach me adeebarafi12@gmail.com
+- 📫 Reach me at adeebarafi12@gmail.com
 Let's connect and build something great together! 🌟
   
 
