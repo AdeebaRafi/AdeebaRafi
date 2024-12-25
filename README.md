@@ -31,7 +31,9 @@ AI/ML Tools: Pandas, NumPy, Scikit-learn, Matplotlib, Streamlit
 Let’s Connect!
 
 If you’re curious about the power of AI, have an interesting project idea, or want to collaborate, feel free to reach out:
+
 -> Email: adeebarafi12@gmail.com
+
 -> LinkedIn: www.linkedin.com/in/adeeba-rafi
 
 Ongoing Endeavors:
