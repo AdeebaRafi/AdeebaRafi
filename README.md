@@ -1,53 +1,29 @@
-Hey there! 👋 Thanks for visiting my GitHub profile!
-About Me:
+## Welcome to My GitHub Profile!
 
-Hi, I’m Adeeba Rafi, a Computer Science graduate with a passion for Artificial Intelligence and Machine Learning.
+I have been fortunate to achieve several milestones throughout my academic and professional journey. Here are some highlights:
 
-What Drives Me?
+----> Advent of Code 2024: Ranked among the top 100 on Day 20 out of 198,321 participants worldwide.  
+----> CS50x Puzzle Day 2025: Winner of the competition organized by Harvard University by solving 9/9 puzzles.  
+----> LeetCode: Solved 80+ Data Structures & Algorithms problems.  
+----> lablab.ai: Participated in 5+ international hackathons.  
+----> Advent of Code 2024: Consistently solved competitive questions for 25 days (among 198,321 participants worldwide).  
+----> MIT Winter Coding Competition 2025 (USA): Ranked 133rd out of 1,700+ teams internationally.  
+----> CALICO Coding Competition 2024 (UC Berkeley, USA): Participated and competed internationally.  
 
-I’m fascinated by how AI and ML can transform our world and solve real-world challenges. My focus is on:
+**Education:** Completed my undergraduate degree in Computer Science with a GPA of 3.44/4.0.  
+**Current Focus:** Actively solving LeetCode problems to strengthen problem-solving skills.  
+**How to reach me:** adeebarafi12@gmail.com  
 
-Developing advanced models:
+**Fun Fact:** Other than coding, I’m a big fan of traveling, playing badminton, and enjoying good food.  
 
-Training them on diverse datasets.
-Exploring real-time projects to gain hands-on experience.
+## Connect with me  
 
-My Mission:
-
-My goal is to shape the future with innovations in AI by:
-
-Building intelligent solutions:
-
-Gaining expertise in Python, AI frameworks, and Machine Learning algorithms.
-Collaborating on impactful projects that push the boundaries of what’s possible.
-
-My Tech Stack:
-
-Here are some of the tools and technologies I work with:
-
-Programming Languages: Python, C++, Flutter
-AI/ML Tools: Pandas, NumPy, Scikit-learn, Matplotlib, Streamlit
-
-Let’s Connect!
-
-If you’re curious about the power of AI, have an interesting project idea, or want to collaborate, feel free to reach out:
-
--> Email: adeebarafi12@gmail.com
-
--> LinkedIn: www.linkedin.com/in/adeeba-rafi
-
-Ongoing Endeavors:
-
-Currently, I’m improving my skills in:
-
-Python programming for AI/ML applications.
-Developing advanced AI models and systems.
-Exploring innovative ideas to solve real-world problems.
-Let’s dream big together and make an impact!
-  
+<a href="https://www.linkedin.com/in/adeeba-rafi" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+</a>
+<a href="https://leetcode.com/u/adeeba_rafi/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" width="40" height="40" alt="LeetCode"/>
+</a>
 
 
-<!---
-AdeebaRafi/AdeebaRafi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
