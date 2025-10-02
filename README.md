@@ -22,7 +22,7 @@ I have been fortunate to achieve several milestones throughout my academic and p
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
 <a href="https://leetcode.com/u/adeeba_rafi/" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7b/LeetCode_logo_white_no_text.svg" width="40" height="40" alt="LeetCode"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCXn5tbcJ4NNjKv5LKnlYtluB4Q1SKKrSscGIwYIw0-VwBM6v9iHvm-Q8IVv6GIYiGTwc&usqp=CAU" width="40" height="40" alt="LeetCode"/>
 </a>
 
 
