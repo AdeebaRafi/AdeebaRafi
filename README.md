@@ -5,15 +5,15 @@ I am currently looking for graduate positions and opportunities to get involved 
 ##  Certificates
 
 <p align="center">
-  <img src="certificates/decode.png" width="250" />
-  <img src="certificates/Cs.png" width="250" />
-  <img src="certificates/GenAi.png" width="250" />
+  <img src="certificates/decode.png" width="140" />
+  <img src="certificates/Cs.png" width="140" />
+  <img src="certificates/GenAi.png" width="140" />
 </p>
 
 <p align="center">
-  <img src="certificates/HV.png" width="250" />
-  <img src="certificates/LC.png" width="250" />
-  <img src="certificates/Certificate.png" width="250" />
+  <img src="certificates/HV.png" width="140" />
+  <img src="certificates/LC.png" width="140" />
+  <img src="certificates/Certificate.png" width="140" />
 </p>
 
 
