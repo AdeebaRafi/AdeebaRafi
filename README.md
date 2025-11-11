@@ -1,14 +1,20 @@
 ## Welcome to My GitHub Profile!
 
-I have been fortunate to achieve several milestones throughout my academic and professional journey. Here are some highlights:
+## 🎓 Certificates
 
-----> Advent of Code 2024: Ranked among the top 100 on Day 20 out of 198,321 participants worldwide.  
-----> CS50x Puzzle Day 2025: Winner of the competition organized by Harvard University by solving 9/9 puzzles.  
-----> LeetCode: Solved 80+ Data Structures & Algorithms problems.  
-----> lablab.ai: Participated in 5+ international hackathons.  
-----> Advent of Code 2024: Consistently solved competitive questions for 25 days (among 198,321 participants worldwide).  
-----> MIT Winter Coding Competition 2025 (USA): Ranked 133rd out of 1,700+ teams internationally.  
-----> CALICO Coding Competition 2024 (UC Berkeley, USA): Participated and competed internationally.  
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1dwGEtNKZJb8YXj8082H-caBMwerJyWPC" width="250" height="180"/>
+  <img src="https://drive.google.com/uc?export=view&id=16y0o4BHCFOQb7Udqc1b0_MpR6KQTsyzk" width="250" height="180"/>
+  <img src="https://drive.google.com/uc?export=view&id=1NluqY2zr9IJKkh30HBy9DRXxJf_qEW-M" width="250" height="180"/>
+</p>
+
+
+<p align="center">
+  <img src="https://drive.google.com/uc?export=view&id=1QhajrwKzvfqCItZQ8G9XEfhYR6LQcKze/view?usp=sharing" width="250" height="180"/>
+  <img src="" width="250" height="180"/>
+  <img src="link_to_certificate6" width="250" height="180"/>
+</p>
+
 
 **Education:** Completed my undergraduate degree in Computer Science with a GPA of 3.44/4.0.  
 **Current Focus:** Actively solving LeetCode problems to strengthen problem-solving skills.  
