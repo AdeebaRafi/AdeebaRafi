@@ -1,18 +1,19 @@
 ## Welcome to My GitHub Profile!
 
-## 🎓 Certificates
+I am currently looking for graduate positions and opportunities to get involved in research during my master’s studies. I’m eager to learn, grow, and contribute to meaningful projects.
+
+##  Certificates
 
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1dwGEtNKZJb8YXj8082H-caBMwerJyWPC" width="250" height="180"/>
-  <img src="https://drive.google.com/uc?export=view&id=16y0o4BHCFOQb7Udqc1b0_MpR6KQTsyzk" width="250" height="180"/>
-  <img src="https://drive.google.com/uc?export=view&id=1NluqY2zr9IJKkh30HBy9DRXxJf_qEW-M" width="250" height="180"/>
+  <img src="certificates/decode.png" width="250" />
+  <img src="certificates/Cs.png" width="250" />
+  <img src="certificates/GenAi.png" width="250" />
 </p>
 
-
 <p align="center">
-  <img src="https://drive.google.com/uc?export=view&id=1QhajrwKzvfqCItZQ8G9XEfhYR6LQcKze/view?usp=sharing" width="250" height="180"/>
-  <img src="" width="250" height="180"/>
-  <img src="link_to_certificate6" width="250" height="180"/>
+  <img src="certificates/HV.png" width="250" />
+  <img src="certificates/LC.png" width="250" />
+  <img src="certificates/Certificate.png" width="250" />
 </p>
 
 
