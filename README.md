@@ -15,13 +15,18 @@ I am currently looking for graduate positions and opportunities to get involved 
   <img src="certificates/LC.png" width="140" />
   <img src="certificates/Certificate.png" width="140" />
 </p>
+<p align="center">
+<img width="400" height="300" alt="Screen Shot 2025-10-31 at 10 41 02 PM" src="https://github.com/user-attachments/assets/0128d205-8f91-426f-9b16-c44053892b80" />
+</p>
 
+## Education: 
+Completed my undergraduate degree in Computer Science with a GPA of 3.44/4.0.  
+## Current Focus: 
+Actively solving LeetCode problems to strengthen problem-solving skills.  
+## How to reach me: 
+adeebarafi12@gmail.com  
 
-**Education:** Completed my undergraduate degree in Computer Science with a GPA of 3.44/4.0.  
-**Current Focus:** Actively solving LeetCode problems to strengthen problem-solving skills.  
-**How to reach me:** adeebarafi12@gmail.com  
-
-**Fun Fact:** Other than coding, I’m a big fan of traveling, playing badminton, and enjoying good food.  
+Fun Fact: Other than coding, I’m a big fan of traveling, playing badminton, and enjoying good food.  
 
 ## Connect with me  
 
