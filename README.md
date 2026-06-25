@@ -3,6 +3,12 @@
 I am currently looking for graduate positions and opportunities to get involved in research during my master’s studies. I’m eager to learn, grow, and contribute to meaningful projects.
 
 ##  Certificates
+<p align="center">
+  <img width="509" height="461" alt="S CIP certificate" src="https://github.com/user-attachments/assets/137d84ff-4bb4-47f0-b408-7c92f417fa71" />
+</p>
+
+
+
 
 <p align="center">
   <img src="certificates/decode.png" width="140" />
