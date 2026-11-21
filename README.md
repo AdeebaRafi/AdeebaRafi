@@ -1,40 +1,5 @@
 ## Welcome to My GitHub Profile!
-
-I am currently looking for graduate positions and opportunities to get involved in research during my master’s studies. I’m eager to learn, grow, and contribute to meaningful projects.
-
-##  Certificates
-<p align="center">
-  <img width="509" height="461" alt="S CIP certificate" src="https://github.com/user-attachments/assets/137d84ff-4bb4-47f0-b408-7c92f417fa71" />
-</p>
-
-
-
-
-<p align="center">
-  <img src="certificates/decode.png" width="140" />
-  <img src="certificates/Cs.png" width="140" />
-  <img src="certificates/GenAi.png" width="140" />
-</p>
-
-<p align="center">
-  <img src="certificates/HV.png" width="140" />
-  <img src="certificates/LC.png" width="140" />
-  <img src="certificates/Certificate.png" width="140" />
-</p>
-
-<p align="center">
-<img width="400" height="300" alt="Screen Shot 2025-10-31 at 10 41 02 PM" src="https://github.com/user-attachments/assets/0128d205-8f91-426f-9b16-c44053892b80" />
-</p>
-
-<p align="center">
-<img width="600" height="712" alt="berkeley" src="https://github.com/user-attachments/assets/074a6d14-9093-4cb7-9ed0-06feb1d23885" />
-</p>
-
-
-## Education: 
-Completed my undergraduate degree in Computer Science with a GPA of 3.44/4.0.  
-## Current Focus: 
-Actively solving LeetCode problems to strengthen problem-solving skills.  
+ 
 ## How to reach me: 
 adeebarafi12@gmail.com  
 
